@@ -44,6 +44,10 @@ footer {
   color: #666;
 }
 
+.embed-item {
+  min-height: 0%;
+}
+
 @media only screen and (min-width: 60em) {
 
   nav ul {
@@ -51,7 +55,7 @@ footer {
   }
 
   .wrapper {
-    max-width: 75%;
+    max-width: 65%;
   }
 
 }
